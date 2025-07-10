@@ -211,3 +211,6 @@
     <th><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeanZanchetta&theme=transparent&hide_border=true&title_color=00FF00" alt="Profile Details"></th>
 </table>
 
+<br>
+<br>
+
