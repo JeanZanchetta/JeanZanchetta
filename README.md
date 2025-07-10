@@ -211,11 +211,3 @@
     <th><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeanZanchetta&theme=transparent&hide_border=true&title_color=00FF00" alt="Profile Details"></th>
 </table>
 
-## STREAK STATUS
-
-<div align="center">
-   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=JeanZanchetta" alt="GitHub Streak"
-    />
-  </a>
-</div>
