@@ -44,7 +44,7 @@
 <br>
 <br>
 
-## Skills in Development 🛠
+### Skills in Development 🛠
 
 <img 
     align="left" 
